@@ -1,0 +1,1 @@
+cros_secure console=tty1 printk.time=1 rootwait root=PARTUUID=2b63668c-9536-1d46-b1e9-7d86453f29c0 rw rootfstype=ext4 consoleblank=0
